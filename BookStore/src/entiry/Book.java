@@ -3,9 +3,13 @@ package entiry;
 public class Book {
 
     private String id;
+
     private String name;
+
     private Double price;
+
     private int number;
+
     private String address;
     public Book() {
 
