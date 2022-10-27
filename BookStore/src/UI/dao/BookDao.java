@@ -1,6 +1,6 @@
-package dao;
+package UI.dao;
 
-import entiry.Book;
+import UI.entiry.Book;
 
 import java.sql.*;
 import java.util.ArrayList;

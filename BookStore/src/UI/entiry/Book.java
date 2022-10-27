@@ -1,4 +1,4 @@
-package entiry;
+package UI.entiry;
 
 public class Book {
 

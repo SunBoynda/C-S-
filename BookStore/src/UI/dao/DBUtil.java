@@ -1,4 +1,4 @@
-package dao;
+package UI.dao;
 
 import java.sql.*;
 

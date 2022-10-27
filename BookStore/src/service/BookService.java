@@ -1,7 +1,7 @@
 package service;
 
-import dao.BookDao;
-import entiry.Book;
+import UI.dao.BookDao;
+import UI.entiry.Book;
 
 import java.util.ArrayList;
 

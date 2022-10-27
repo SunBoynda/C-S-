@@ -1,6 +1,6 @@
-package controller;
+package UI.controller;
 
-import entiry.Book;
+import UI.entiry.Book;
 import service.BookService;
 import view.BookAdmin;
 
